@@ -26,7 +26,7 @@ https://www.jacksonfreepress.com/news/2013/jul/24/abandoned-housing-two-step/
 ###### Finally they will need to promote the new property to help influence people and/or businesses to buy the property.
 ###### This will increase Jackson's profits and the city will then benefit from the increase in revenue and taxes, and these funds can then be used to improve the roads and do other much needed renovations. 
 
-# My Code For my Solution
+# The Code For my Solution
 ##
 #include <iostream>
 #include <string>
